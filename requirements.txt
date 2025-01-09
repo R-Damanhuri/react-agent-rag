@@ -1,0 +1,8 @@
+python-dotenv
+langchain-openai
+langchain-chroma
+langchain-experimental
+docling
+flask
+flask-restful
+flask-cors
